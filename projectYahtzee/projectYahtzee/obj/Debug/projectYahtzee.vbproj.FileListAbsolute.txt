@@ -1,0 +1,2 @@
+S:\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe.config
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe.config
