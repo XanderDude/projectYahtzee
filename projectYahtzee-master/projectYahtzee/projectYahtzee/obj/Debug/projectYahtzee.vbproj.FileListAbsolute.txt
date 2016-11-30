@@ -1,0 +1,34 @@
+S:\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe.config
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe.config
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe.config
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.pdb
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.xml
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.vbprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.Resources.resources
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.frmYahtzee.resources
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.vbproj.GenerateResource.Cache
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.exe
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.xml
+C:\Users\Albert\Documents\GitHub\projectYahtzee\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.pdb
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.pdb
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.xml
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.vbprojResolveAssemblyReference.cache
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.Resources.resources
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.frmYahtzee.resources
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.vbproj.GenerateResource.Cache
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.exe
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.xml
+\\zeus\profile$\955334251\My Documents\Visual Studio 2015\Projects\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.pdb
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe.config
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.exe
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.xml
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.pdb
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.exe
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.pdb
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\bin\Debug\projectYahtzee.xml
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.vbprojResolveAssemblyReference.cache
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.Resources.resources
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.frmYahtzee.resources
+D:\EDCC 1st Quarter 2016\IntroToProgram\Programing\projectYahtzee-master\projectYahtzee\projectYahtzee\obj\Debug\projectYahtzee.vbproj.GenerateResource.Cache
